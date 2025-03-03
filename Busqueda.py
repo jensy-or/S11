@@ -16,7 +16,7 @@ def buscar_valor(matriz, valor):
     return f"El valor {valor} no se encontró en la matriz."
 
 # Valor a buscar
-valor_a_buscar = 5
+valor_a_buscar = 8
 
 # Llamar a la función y mostrar el resultado
 resultado = buscar_valor(matriz, valor_a_buscar)
